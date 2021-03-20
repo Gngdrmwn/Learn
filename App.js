@@ -6,6 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Commit #1</Text>
+      <Text>Commit #2</Text>
       <StatusBar style="auto" />
     </View>
   );
